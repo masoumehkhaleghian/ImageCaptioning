@@ -32,5 +32,3 @@ This repository currently contains:
   - Packing everything into model-ready tensors with `processor(...)`
   - Running `model.generate(...)` to produce a caption
   - Decoding and pretty-printing the generated caption
-
-You can add more notebooks and scripts to this repo later, but the README is focused on this main file for now.
